@@ -161,10 +161,10 @@ class Dots_and_Boxes:
         player2_score = len(np.argwhere(self.board_status == 4))
 
         if player1_score > player2_score:
-            text = 'Winner: Player 1 '
+            text = 'Player 1 won'
             color = player1_color
         elif player2_score > player1_score:
-            text = 'Winner: Player 2 '
+            text = 'Player 2 won'
             color = player2_color
         else:
             text = 'It\'s a tie'
