@@ -1,6 +1,6 @@
 <br>
 
-# Dots and Boxes
+# Dots and Boxes with Python
 
 <br>
 
@@ -10,12 +10,15 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 
 <br> <br>
 
-## Credits
-<br>
+# Credits
+<br> 
 
-**Ashraful Alam** - Software Developer
-- International Islamic University Chittagong (IIUC)
-<br>
+# Ashraful Alam
+- **Studying B.Sc. in Computer Science and Engineering**
+- **Institution: International Islamic University Chittagong (IIUC)**
+- **Time : July, 2023 - Prestent**
+
+<br> 
 
 ## Features
 <br>
