@@ -22,6 +22,7 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 
 - Interactive and engaging gameplay.
 - Clear and intuitive user interface.
+- Different color for different players.
 - Real-time score updates.
 - Option to reset the game and start a new round.
 - Visual feedback for completed boxes.
