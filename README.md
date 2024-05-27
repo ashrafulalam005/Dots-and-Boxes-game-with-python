@@ -51,6 +51,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 5. The game continues until all possible boxes are completed.
 6. But if there is any problem you can easily restart the game using reset button. 
 7. The player with the most boxes at the end of the game wins.
+8. If the box number are same for both players then its a tie. 
 <br>
 
 ## Technologies Used
