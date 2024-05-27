@@ -94,7 +94,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 <img src="https://github.com/ashrafulalam005/Dots-and-Boxes-with-python/blob/main/necessary%20img/completed_boxes.png" height="500" width="420">
 
 <br> <br>
-## Game Over
+## Winning declaration
 
 <br>
 
