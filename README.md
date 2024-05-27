@@ -4,9 +4,10 @@
 
 <br>
 
-## Overview
+# Overview
 <br>
-Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Dots and Boxes game implemented using Python. It allows two players to take turns drawing lines between dots on a grid, with the goal of completing as many boxes as possible. The player with the most completed boxes at the end wins. If the box count are same then its a tie.
+
+Hey there. I am **Ashraful Alam .** I am from **Chittagong, Bangladesh .** I am a passionate software developer. This is a simple **Dots and Boxes** game implemented using **Python .** It allows two players to take turns drawing lines between dots on a grid, with the goal of completing as many boxes as possible. The player with the most completed boxes at the end wins. If the box count are same then its a tie.
 
 <br> <br>
 
@@ -20,7 +21,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 
 <br> 
 
-## Features
+# Features
 <br>
 
 - Interactive and engaging gameplay.
@@ -31,7 +32,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 - Visual feedback for completed boxes.
 <br>
 
-## Input Methods
+# Input Methods
 - **Mouse Clicks:** Players can use mouse clicks to draw lines between dots.
 
 <br>
@@ -44,7 +45,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 - Customizable grid sizes and themes.
 <br>
 
-## How to Play
+# How to Play
 <br>
 
 1. Run the `main.py` file in your Python environment.
@@ -57,7 +58,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 8. If the box number are same for both players then its a tie. 
 <br>
 
-## Technologies Used
+# Technologies Used
 <br>
 
 - **Python**
