@@ -72,7 +72,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 # Screenshots of the application
 <br>
 
-## Initial Grid
+## Before Starting
 
 <br>
 
