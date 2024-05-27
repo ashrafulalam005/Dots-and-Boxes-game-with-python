@@ -49,7 +49,8 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 3. Players take turns clicking between adjacent dots to draw a line.
 4. When a player completes the fourth side of a box, they claim that box and earn a point.
 5. The game continues until all possible boxes are completed.
-6. The player with the most boxes at the end of the game wins.
+6. But if there is any problem you can easily restart the game using reset button. 
+7. The player with the most boxes at the end of the game wins.
 <br>
 
 ## Technologies Used
