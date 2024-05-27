@@ -76,7 +76,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 
 <br>
 
-<img src="https://github.com/ashrafulalam005/Dots-and-Boxes-game-with-python/blob/main/necessary%20img/before%20starting.png" height="500" width="450">
+<img src="https://github.com/ashrafulalam005/Dots-and-Boxes-game-with-python/blob/main/necessary%20img/before%20starting.png" height="500" width="420">
 
 <br> <br>
 
