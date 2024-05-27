@@ -80,7 +80,7 @@ Hey there. I am <b>Ashraful Alam</b>. I am from Chittagong, Bangladesh. I am a p
 
 <br> <br>
 
-## In-Game Play
+## Instant Next turn button update
 
 <br>
 
