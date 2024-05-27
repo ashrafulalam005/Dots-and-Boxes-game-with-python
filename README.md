@@ -59,6 +59,12 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 - **Python**
 - **Pygame**
 - **Tkinter**
+- **Numpy**
+- **Event Handling**
+- **Basic Game Logic**
+- **Object-Oriented Programming (OOP)**
+- **Graphical Drawing**
+- **Interactive UI Elements**
 
 <br>
 
