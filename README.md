@@ -30,8 +30,6 @@ Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passiona
 
 ## Input Methods
 - **Mouse Clicks:** Players can use mouse clicks to draw lines between dots.
-- **Keyboard:** Players can use arrow keys to navigate and spacebar to draw lines.
-- **Graphical Interface:** The game features a graphical interface for easy interaction.
 
 <br>
 
