@@ -24,12 +24,13 @@
 # Features
 <br>
 
-- Interactive and engaging gameplay.
-- Clear and intuitive user interface.
-- Different color for different players.
-- Real-time score updates.
-- Option to reset the game and start a new round.
-- Visual feedback for completed boxes.
+***- Interactive and engaging gameplay.***  
+***- Clear and intuitive user interface.***  
+***- Different color for different players.***  
+***- Real-time score updates.***  
+***- Option to reset the game and start a new round.***  
+***- Visual feedback for completed boxes.***  
+
 <br>
 
 # Input Methods
