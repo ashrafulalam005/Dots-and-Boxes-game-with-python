@@ -41,9 +41,9 @@
 ## Upcoming Features
 <br>
 
-- AI opponent for single-player mode.
-- Online multiplayer functionality.
-- Customizable grid sizes and themes.
+***- AI opponent for single-player mode.***  
+***- Online multiplayer functionality.***  
+***- Customizable grid sizes and themes.***  
 <br>
 
 # How to Play
