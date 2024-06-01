@@ -63,15 +63,16 @@
 # Technologies Used
 <br>
 
-- **Python**
-- **Pygame**
-- **Tkinter**
-- **Numpy**
-- **Event Handling**
-- **Basic Game Logic**
-- **Object-Oriented Programming (OOP)**
-- **Graphical Drawing**
-- **Interactive UI Elements**
+***- Python***  
+***- Pygame***  
+***- Tkinter***  
+***- Numpy***  
+***- Event Handling***  
+***- Basic Game Logic***  
+***- Object-Oriented Programming (OOP)***  
+***- Graphical Drawing***  
+***- Interactive UI Elements***  
+
 
 <br>
 
