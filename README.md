@@ -34,7 +34,7 @@
 <br>
 
 # Input Methods
-- **Mouse Clicks:** Players can use mouse clicks to draw lines between dots.
+***- Mouse Clicks: Players can use mouse clicks to draw lines between dots.***
 
 <br>
 
