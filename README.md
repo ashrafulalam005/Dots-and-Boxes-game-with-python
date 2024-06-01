@@ -49,14 +49,15 @@
 # How to Play
 <br>
 
-1. Run the `main.py` file in your Python environment.
-2. The game starts with an empty grid of dots.
-3. Players take turns clicking between adjacent dots to draw a line.
-4. When a player completes the fourth side of a box, they claim that box and earn a point.
-5. The game continues until all possible boxes are completed.
-6. But if there is any problem you can easily restart the game using reset button. 
-7. The player with the most boxes at the end of the game wins.
-8. If the box number are same for both players then its a tie. 
+***1. Run the <code>main.py</code> file in your Python environment.***  
+***2. The game starts with an empty grid of dots.***  
+***3. Players take turns clicking between adjacent dots to draw a line.***  
+***4. When a player completes the fourth side of a box, they claim that box and earn a point.***  
+***5. The game continues until all possible boxes are completed.***  
+***6. But if there is any problem you can easily restart the game using reset button.***  
+***7. The player with the most boxes at the end of the game wins.***  
+***8. If the box number are same for both players then its a tie.***  
+
 <br>
 
 # Technologies Used
