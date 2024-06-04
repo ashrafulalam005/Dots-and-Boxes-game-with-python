@@ -34,7 +34,8 @@
 <br>
 
 # Input Methods
-***- Mouse Clicks: Players can use mouse clicks to draw lines between dots.***
+***- Mouse Clicks: Players can use mouse clicks to draw a lines between dots.***
+***- Touch screen: Player can touch the screen on a mobile phone to draw a lines between dots.***
 
 <br>
 
