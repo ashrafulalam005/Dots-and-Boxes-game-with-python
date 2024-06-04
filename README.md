@@ -140,3 +140,5 @@
 <img src="https://github.com/ashrafulalam005/Dots-and-Boxes-game-with-python/blob/main/necessary%20img/tie.png" height="500" width="420">
 
 <br> <br>
+
+
