@@ -1,6 +1,6 @@
 <br> <br>                
 
-# Dots and Boxes with Python
+# Dots and Boxes Game with Python
 
 <br>
 
