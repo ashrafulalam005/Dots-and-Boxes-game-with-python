@@ -7,7 +7,7 @@
 # Overview
 <br>
 
-***Hey there. I am Ashraful Alam . I am from Chittagong, Bangladesh . I am a passionate software developer. This is a simple Dots and Boxes game implemented using Python . It allows two players to take turns drawing lines between dots on a grid, with the goal of completing as many boxes as possible. The player with the most completed boxes at the end wins. If the box count are same then its a tie.***
+***Hey there. I am Ashraful Alam . I am from Chittagong, Bangladesh . I am a passionate software developer. This is a simple Dots and Boxes game implemented using Python and some other tools . It allows two players to take turns drawing lines between dots on a grid, with the goal of completing as many boxes as possible. The player with the most completed boxes at the end wins. If the box count are same then its a tie.***
 
 <br> <br>
 
