@@ -77,7 +77,7 @@
 <br>
 
 # Installation and Setup
-<br>
+<br> 
 
 1. **Clone the repository to your local machine:**
    ```bash
