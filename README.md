@@ -11,13 +11,12 @@
 
 <br> <br>
 
-# Credits 🙌
-<br> 
+# Credit 🙌
 
-# Ashraful Alam
+## Developer : Ashraful Alam
 ***- Studying B.Sc. in Computer Science and Engineering***  
 ***- Institution: International Islamic University Chittagong (IIUC)***  
-***- Time : July, 2023 - Prestent***  
+***- Time : July, 2023 - Prestent***
 
 <br> 
 
@@ -34,20 +33,19 @@
 <br>
 
 # Upcoming Features 🚀
-
-# Input Methods
-***- Mouse Clicks: Players can use mouse clicks to draw a lines between dots.***  
-***- Touch screen: Player can touch the screen on a mobile phone to draw a lines between dots.***
-
-<br>
-
-## Upcoming Features
 <br>
 
 ***- AI opponent for single-player mode.***  
 ***- Online multiplayer functionality.***  
 ***- Customizable grid sizes and themes.***  
-<br>
+
+<br> 
+
+# Input Methods ❓
+***- Mouse Clicks: Players can use mouse clicks to draw a lines between dots.***  
+***- Touch screen: Player can touch the screen on a mobile phone to draw a lines between dots.***
+
+<br> 
 
 # How to Play 🎮
 <br>
@@ -63,7 +61,7 @@
 
 <br>
 
-# Technologies Used 💻
+# Programming Languages and Tools Used 💻
 <br>
 
 ***- Python***  
@@ -86,7 +84,7 @@
 
 <br> 
 
-# Screenshots of the application
+# Screenshots of the gameplay 🖼️
 <br>
 
 ## Before Starting
