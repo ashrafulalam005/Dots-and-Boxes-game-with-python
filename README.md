@@ -1,18 +1,17 @@
 <br> <br> <br> 
 
-
 # Dots and Boxes Game with Python
 
 <br>
 
-# Overview
+# Overview 🔍
 <br>
 
 ***Hey there. I am Ashraful Alam . I am from Chittagong, Bangladesh . I am a passionate software developer. This is a simple Dots and Boxes game implemented using Python and some other tools . It allows two players to take turns drawing lines between dots on a grid, with the goal of completing as many boxes as possible. The player with the most completed boxes at the end wins. If the box count are same then its a tie.***
 
 <br> <br>
 
-# Credits
+# Credits 🙌
 <br> 
 
 # Ashraful Alam
@@ -22,7 +21,7 @@
 
 <br> 
 
-# Features
+# Features ✨
 <br>
 
 ***- Interactive and engaging gameplay.***  
@@ -33,6 +32,8 @@
 ***- Visual feedback for completed boxes.***  
 
 <br>
+
+# Upcoming Features 🚀
 
 # Input Methods
 ***- Mouse Clicks: Players can use mouse clicks to draw a lines between dots.***  
@@ -48,7 +49,7 @@
 ***- Customizable grid sizes and themes.***  
 <br>
 
-# How to Play
+# How to Play 🎮
 <br>
 
 ***1. Run the <code>main.py</code> file in your Python environment.***  
@@ -62,7 +63,7 @@
 
 <br>
 
-# Technologies Used
+# Technologies Used 💻
 <br>
 
 ***- Python***  
@@ -76,7 +77,7 @@
 ***- Interactive UI Elements***  
 <br>
 
-# Installation and Setup
+# Installation and Setup 🛠️
 <br> 
 
 1. **Clone the repository to your local machine:**
