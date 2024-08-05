@@ -76,6 +76,14 @@
 ***- Interactive UI Elements***  
 <br>
 
+# Installation and Setup
+<br>
+
+1. **Clone the repository to your local machine:**
+   ```bash
+   git clone https://github.com/ashrafulalam005/Dots-and-Boxes-game-with-python.git
+
+<br> 
 
 # Screenshots of the application
 <br>
