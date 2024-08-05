@@ -1,4 +1,4 @@
-<br> <br> <br>    
+<br> <br> <br> 
 
 
 # Dots and Boxes Game with Python
@@ -74,9 +74,8 @@
 ***- Object-Oriented Programming (OOP)***  
 ***- Graphical Drawing***  
 ***- Interactive UI Elements***  
-
-
 <br>
+
 
 # Screenshots of the application
 <br>
